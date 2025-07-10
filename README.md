@@ -28,7 +28,7 @@ python Compare_AD_Strategies.py -train Train.csv -test Test.csv -repres RDKit-de
 ```
 Please note that within ADvisor AD strategy the similarity formula used for regressors and classifiers is the one that performed best on average, respectively (we refer the user to the paper for further details). 
 
-### 1) AD application
+### 2) AD application
 
 Run the calculate AD script with Python, specifying the required inputs:
 
