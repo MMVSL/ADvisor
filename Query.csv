@@ -1,0 +1,13 @@
+SMILES,Pred
+CC(=O)CC(=O)Nc1ccccc1Cl,-3.7
+CCN(CCO[N+](=O)[O-])[N+](=O)[O-],-1.52
+CC(C)=CCC/C(C)=C/COC=O,0.95
+CC(=O)N1c2ccccc2C(C)=CC1(C)C,-2.8
+CCOC(=O)c1cccnc1,-0.02
+CC1COCc2cc3c(cc21)C(C)(C)C(C)C3(C)C,-1.32
+CCCCC(CC)C1OCCN1CCCC,0.64
+CCC(CC)CO[Si](OCC(CC)CC)(OCC(CC)CC)OCC(CC)CC,-2.26
+COc1ccc(Cl)c(S(N)(=O)=O)c1,-4.43
+C[N+](C)(CCCNS(=O)(=O)CCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)CC(=O)[O-],-2.17
+CCOC(=O)[C@H](Cc1cc([N+](=O)[O-])c(O)c([N+](=O)[O-])c1)NC(C)=O,-5.34
+CC=CC=C1C(C)=CC(=O)CC1(C)C,0.05
