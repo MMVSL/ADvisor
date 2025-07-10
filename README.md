@@ -1,7 +1,7 @@
 # ADvisor
 
 
-ADvisor tool allows the exploration of different applicabilty domain (AD) strategies to find the most suitable for each use case. Once the user has identified the preferred AD methodology, this can be applied to any query dataset. This repository provides necessary Python scripts for AD search and application, using a predefined environment and dependencies. 
+ADvisor tool allows the exploration of different applicabilty domain (AD) strategies to find the most suitable for each use case. Once the user has identified the preferred AD methodology, this can be applied to any query dataset. This repository provides necessary Python scripts for AD search and application, using a predefined environment and dependencies. A notebook is also included to provide an example on how to analyze results.
 
 ## Installation
 
