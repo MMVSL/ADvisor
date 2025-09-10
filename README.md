@@ -33,7 +33,7 @@ Please note that within ADvisor AD strategy the similarity formula used for regr
 Run the calculate AD script with Python, specifying the required inputs:
 
 ```sh
-python Calculate_AD.py -train Train.csv -test Test.csv -query Query.csv -repres RDKit-descriptors -ad ADvisor_AD_th-0.8_a-0.25_b-0.25_c-0.25_d-0.25 -mt regressor -test_tvc True -train_tvc True -test_pvc Pred -query_pvc Pred -nj 4 -out Out2.csv
+python Calculate_AD.py -train Train.csv -test Test.csv -query Query.csv -repres RDKit-descriptors -ad ComAD_AD_th-0.6_a-1_b-0.5_c-0.5_d-0.5 -mt regressor -test_tvc True -train_tvc True -test_pvc Pred -query_pvc Pred -nj 4 -out Out2.csv
 ```
 Please note that the desired AD strategy to apply must be written in the same format returned by the AD search. 
 
